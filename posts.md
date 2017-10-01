@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+# Posts
 {% for post in site.posts %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
                     <div class="article-head">

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Publications
 
 - [Rook: Using Video Games as Low-Bandwidth Censorship Resistant Communication Platform.](https://cs.washington.edu/tr/2015/03/UW-CSE-15-03-03.pdf) _Paul Vines_, Tadayoshi Kohno. Workshop on Privacy in the Electronic Society (WPES), October, 2015.
 
