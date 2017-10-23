@@ -3,6 +3,9 @@ layout: post
 title: "Casablanca: The Web of Trusted Updates"
 date: 2016-03-1
 ---
+# 2017 Preface
+The following is a description of a project idea that came out of the 2016 Apple vs. FBI events. I thought about exploring it as the last project in my thesis, but ultimately decided not to. However, it looks like some other researchers were motivated along similar lines and produced [CHAINIAC](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf) (I can't say whether it was the same events that spurred this research or not, although the Apple vs. FBI story is cited as one source of motivation). My understanding of CHAINIAC is that it is pretty similar to what I outline below, except it uses blockchain ideas instead of the classic web-of-trust model, and provides source-to-binary assurances. And, of course, CHAINIAC actually exists and has explored, specified, and solved all the implementation details of a system like this: I really hope it gets deployed.
+
 
 # 1 Example of Use
 
