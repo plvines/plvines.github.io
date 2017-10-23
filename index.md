@@ -15,7 +15,7 @@ I received my PhD from the University of Washington's Allen School of Computer S
 {% for post in site.posts %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
                     <div class="article-head">
-                                <h2 class="title"><a href="/{{ post.url }}/" class="js-pjax">{{ post.title }}</a></h2>
+                                <h2 class="title"><a href="{{ post.url }}" class="js-pjax">{{ post.title }}</a></h2>
                                                                <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
                                                                                   </div><!--/.article-head-->
                                                                                         <div class="article-content">
