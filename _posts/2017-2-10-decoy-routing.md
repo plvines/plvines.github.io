@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Domain-Censor Collusion in Decoy Routing"
+long_description: "I was just catching up on some academic reading by looking over CCS 2016 and found this paper, Game of Decoys: Optimal Decoy Routing Through Game Theory. It sparked an idea, that others have probably had, about what seems like an unaddressed possibility in the hypothetical world where Decoy Routing systems actually get implemented: does the censor have leverage to get domains to move to non-decoy routing Autonomous Systems (ASs)?"
+ 
 date: 2017-02-10
 ---
 

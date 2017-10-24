@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Casablanca: The Web of Trusted Updates"
+long_description: "My encrypted messaging app, Signal, has made an update to its Android app and pushed it out. How do I know my phone is receiving the same update as everyone else, or that everyone else is even receiving an update? I could be getting a targeted malicious update that compromises my secure messaging, with Signal having been hacked or forced to sign the update by a governing authority! But it'll be okay, because I have Casablanca."
+ 
 date: 2016-03-1
 ---
 # 2017 Preface
