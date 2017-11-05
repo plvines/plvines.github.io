@@ -21,3 +21,5 @@ Using these kinds of social media ads for ADINT makes the idea of false-flag ope
 The exact information you can acquire using ADINT after getting these identifiers varies: you can read more about the potential surveillance we discovered in the paper on [Exploring ADINT](http://adint.cs.washington.edu/ADINT.pdf).
 
 In conclusion, social media ads for causes you oppose seems like a good way to acquire targeting identifiers for the rest of an ADINT operation to surveil those targets. Something to consider the next time you share or like a post: you are letting the often-obscure source of that post use ADINT on you if they want.
+
+A final note: there is no evidence I am aware of, nor do I intend to imply, that any of the Russian-funded advertising being discussed was actually conducting ADINT operations.
