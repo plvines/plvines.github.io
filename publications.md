@@ -2,9 +2,10 @@
 layout: default
 ---
 # Publications
+
 - [Surveillance: From Solutions to New Problems.](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/40008/Vines_washington_0250E_17548.pdf?sequence=1&isAllowed=y) Doctoral Dissertation.
 
-- [Exploring ADINT: Using Ad Targeting for Surveillance on a Budget - or - How Alice Can Buy Ads to Track Bob.]([http://adint.cs.washington.edu/ADINT.pdf) _Paul Vines_, Franziska Roesner, Tadayoshi Kohno. Workshop on Privacy in the Electronic Society (WPES), October, 2017.
+- [\[Slides\]](http://paulvines.com/vines_ADINT.pdf)[Exploring ADINT: Using Ad Targeting for Surveillance on a Budget - or - How Alice Can Buy Ads to Track Bob.]([http://adint.cs.washington.edu/ADINT.pdf) _Paul Vines_, Franziska Roesner, Tadayoshi Kohno. Workshop on Privacy in the Electronic Society (WPES), October, 2017.
 
 - [Rook: Using Video Games as Low-Bandwidth Censorship Resistant Communication Platform.](https://cs.washington.edu/tr/2015/03/UW-CSE-15-03-03.pdf) _Paul Vines_, Tadayoshi Kohno. Workshop on Privacy in the Electronic Society (WPES), October, 2015.
 
