@@ -1,8 +1,9 @@
---- layout: post
+---
+layout: post
 title: "A General Theory of Sidechannel Leakage"
 long_description: "Some thoughts about modeling sidechannels as a
 3-step attack and how that framing might help think about realistic
-defenses."
+defenses." 
 
 date: 2020-07-16
 ---
@@ -85,9 +86,9 @@ of this post is that understanding how a changing threat model affects
 these attacks is critical to understanding the risk and tradeoffs of
 defending these attacks in the real world.
 
-![](assets/images/network.png){:height="1400px"}
+![](/assets/images/network.png){:height="1400px"}
 
-![](assets/images/cache.png){:height="1400px"}
+![](/assets/images/cache.png){:height="1400px"}
 
 
 ### 1. Signal Acquisition

@@ -6,9 +6,16 @@ layout: default
 
 # [](#header-1)Summary:
 
-I am a Principal Cybersecurity Research Engineer at BAE Systems with broad interests across the spectrum of security and privacy. 
+I am a Principal Cybersecurity Research Engineer at TwoSixLabs with
+broad interests across the spectrum of security and privacy.
 
-I received my PhD from the University of Washington's Allen School of Computer Science & Engineering in 2017 where my thesis explored new digital surveillance methods and countermeasures.
+I have previously worked at FAST Labs / BAE Systems, performing
+research focused on network security and formal methods.
+
+I received my PhD from the University of Washington's Allen School of
+Computer Science & Engineering in 2017 where my thesis explored new
+digital surveillance methods and countermeasures.
+
 
 # [](#header-1)Thoughts:
 
