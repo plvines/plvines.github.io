@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "A General Theory of Sidechannel Leakage"
-long_description: "Some thoughts about modeling sidechannels as a
-3-step attack and how that framing might help think about realistic
-defenses." 
+long_description: "Some thoughts about modeling sidechannels as a 3-step attack and how that framing might help think about realistic defenses." 
 
 date: 2020-07-16
 ---
