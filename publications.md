@@ -3,7 +3,7 @@ layout: default
 ---
 # Publications
 
-- [Communication Breakdown: Modularizing Application Tunneling for Signaling Around Censorship.](https://petsymposium.org/popets/2024/popets-2024-0027.pdf) _Paul Vines_, Samuel McKay, Jesse Jenter, Suresh Krishnaswamy. Proceedings on rivacy Enhancing Technologies Symposium (PETS), July, 2024.
+- [Communication Breakdown: Modularizing Application Tunneling for Signaling Around Censorship.](https://petsymposium.org/popets/2024/popets-2024-0027.pdf) _Paul Vines_, Samuel McKay, Jesse Jenter, Suresh Krishnaswamy. Proceedings on Privacy Enhancing Technologies Symposium (PETS), July, 2024.
 
 - [Surveillance: From Solutions to New Problems.](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/40008/Vines_washington_0250E_17548.pdf?sequence=1&isAllowed=y) Doctoral Dissertation.
 
