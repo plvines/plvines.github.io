@@ -3,6 +3,8 @@ layout: default
 ---
 # Publications
 
+- [Communication Breakdown: Modularizing Application Tunneling for Signaling Around Censorship.](https://petsymposium.org/popets/2024/popets-2024-0027.pdf) )Paul Vines_, Samuel McKay, Jesse Jenter, Suresh Krishnaswamy.
+
 - [Surveillance: From Solutions to New Problems.](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/40008/Vines_washington_0250E_17548.pdf?sequence=1&isAllowed=y) Doctoral Dissertation.
 
 - [\[Slides\]](http://paulvines.com/vines_ADINT.pdf)[Exploring ADINT: Using Ad Targeting for Surveillance on a Budget - or - How Alice Can Buy Ads to Track Bob.](http://adint.cs.washington.edu/ADINT.pdf) _Paul Vines_, Franziska Roesner, Tadayoshi Kohno. Workshop on Privacy in the Electronic Society (WPES), October, 2017.
