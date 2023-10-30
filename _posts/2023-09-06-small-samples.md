@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: "Bring It On Home: An Argument for Using Small Samples to Model Patterns of Life"
 long_description: "Some thoughts on why research on creating synthetic user behavior is tractable even without large data sets."
