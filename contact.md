@@ -5,7 +5,7 @@ layout: default
 
 paul.l.vines{at}gmail.com
 
-[Mastodon](covertvines@ioc.exchange)
+[Mastodon](https://ioc.exchange/@covertvines)
 
 [Github](https://github.com/plvines)
 
